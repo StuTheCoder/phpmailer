@@ -91,7 +91,6 @@ else{
 <input type="file" name="file" id="file"><br>
 <p align="center">
 <input id="button" type="submit" name="submit" value="Send" class="pulse-button"><br><br>
-<b>Get this script on github:- <a href="https://github.com/gauravg01/phpspammer"><i class="fa fa-github" aria-hidden="true"> Click Here </i></a></b>
 </fieldset>
 </form>
 </div>
